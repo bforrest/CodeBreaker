@@ -1,0 +1,36 @@
+﻿C:\VSProjects\CodeBreaker>watchr dotnet.watchr.rb
+======================== SpecWatcher has started ==========================
+
+TEST RUNNER: NSpecRunner
+
+(you can change your test runner in dotnet.watchr.rb...)
+
+I have found the following test dll's in your solution:
+./CodeBreakerTests/bin/Debug/CodeBreakerTests.dll
+
+
+GROWL PATH: C:\program files (x86)\Growl for Windows\growlnotify.exe
+If you do not have Growl For Windows installed, open up dotnet.watchr.rb and set
+ GrowlNotifier.growl_path to "" (empty string)
+
+
+USAGE INSTRUCTIONS FOR NSpecRunner
+Discovered and using:
+
+====================== changed: CodeBreakerTests/given_a_code_breaker.cs =======
+=============
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe" "./CodeBreaker.sln"
+/verbosity:quiet /nologo
+
+
+
+
+=========== running spec: describe_given_a_code_breaker =====
+"./packages/nspec.0.9.31/tools/NSpecRunner.exe" "./CodeBreakerTests/bin/Debug/Co
+deBreakerTests.dll" "describe_given_a_code_breaker"
+
+
+0 Examples, 0 Failed, 0 Pending
+
+
+===================== done consider ========================
