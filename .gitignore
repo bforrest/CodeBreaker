@@ -17,4 +17,4 @@ _ReSharper*
 CodeBreaker/bin/*
 CodeBreaker/obj/*
 CodeBreakerTests/bin/*
-CodeBreakerTest/obj/*
+CodeBreakerTests/obj/*
