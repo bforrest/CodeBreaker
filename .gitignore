@@ -14,3 +14,5 @@ _ReSharper*
 *.csproj.ReSharper
 
 *.orig
+bin
+obj
