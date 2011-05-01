@@ -1,9 +1,0 @@
-C:\VSProjects\CodeBreaker\CodeBreakerTests\bin\Debug\CodeBreakerTests.dll
-C:\VSProjects\CodeBreaker\CodeBreakerTests\bin\Debug\CodeBreakerTests.pdb
-C:\VSProjects\CodeBreaker\CodeBreakerTests\bin\Debug\CodeBreaker.dll
-C:\VSProjects\CodeBreaker\CodeBreakerTests\bin\Debug\NSpec.dll
-C:\VSProjects\CodeBreaker\CodeBreakerTests\bin\Debug\nunit.framework.dll
-C:\VSProjects\CodeBreaker\CodeBreakerTests\bin\Debug\CodeBreaker.pdb
-C:\VSProjects\CodeBreaker\CodeBreakerTests\obj\Debug\ResolveAssemblyReference.cache
-C:\VSProjects\CodeBreaker\CodeBreakerTests\obj\Debug\CodeBreakerTests.dll
-C:\VSProjects\CodeBreaker\CodeBreakerTests\obj\Debug\CodeBreakerTests.pdb
