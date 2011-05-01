@@ -14,7 +14,7 @@ _ReSharper*
 *.csproj.ReSharper
 
 *.orig
-CodeBreaker/bin*
-CodeBreaker/obj*
-CodeBreakerTests/bin*
-CodeBreakerTest/obj*
+CodeBreaker/bin/*
+CodeBreaker/obj/*
+CodeBreakerTests/bin/*
+CodeBreakerTest/obj/*
