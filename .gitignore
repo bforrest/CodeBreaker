@@ -3,7 +3,7 @@
 AssemblyInfo.cs
 
 # Standard VS.NET and ReSharper Foo
-src/*/obj
+CodeBreaker*/*/obj
 src/*/bin
 *.csproj.user
 _ReSharper*
@@ -14,5 +14,7 @@ _ReSharper*
 *.csproj.ReSharper
 
 *.orig
-bin
-obj
+CodeBreaker/bin*
+CodeBreaker/obj*
+CodeBreakerTests/bin*
+CodeBreakerTest/obj*
