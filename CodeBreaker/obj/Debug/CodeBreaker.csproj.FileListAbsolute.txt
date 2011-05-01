@@ -1,0 +1,7 @@
+C:\VSProjects\CodeBreaker\CodeBreaker\bin\Debug\CodeBreaker.dll
+C:\VSProjects\CodeBreaker\CodeBreaker\bin\Debug\CodeBreaker.pdb
+C:\VSProjects\CodeBreaker\CodeBreaker\bin\Debug\NSpec.dll
+C:\VSProjects\CodeBreaker\CodeBreaker\bin\Debug\nunit.framework.dll
+C:\VSProjects\CodeBreaker\CodeBreaker\obj\Debug\ResolveAssemblyReference.cache
+C:\VSProjects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.dll
+C:\VSProjects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.pdb
